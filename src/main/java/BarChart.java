@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class BarChart {
 public static void main(String[] args) {
 int Store1, Store2, Store3, Store4, Store5;
-
+//
 Scanner in = new Scanner(System.in);
 System.out.print("Enter today’s sales for stores 1: ");
 Store1 = in.nextInt();
